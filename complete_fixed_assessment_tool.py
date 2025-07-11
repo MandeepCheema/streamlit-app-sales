@@ -1816,7 +1816,7 @@ if st.session_state.current_page == 'home':
     with col2:
         st.markdown("""
         <div class="error-box">
-            <h4>🚨 EU AI Act Enforcement Begins 2024</h4>
+            <h4>🚨 EU AI Act Enforcement Begins 2026</h4>
             <p>Non-compliance risks include:</p>
             <ul>
                 <li>Fines up to €35M or 7% of revenue</li>
